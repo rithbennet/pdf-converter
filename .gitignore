@@ -1,0 +1,43 @@
+# Go backend
+/backend/uploads/
+/backend/converted/
+/backend/merged/
+
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Node.js
+/frontend/node_modules/
+/frontend/.pnp
+/frontend/.pnp.js
+
+# Build files
+/frontend/dist/
+/frontend/build/
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Logs
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/pnpm-debug.log*
+
+# Editor directories and files
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/tasks.md
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
