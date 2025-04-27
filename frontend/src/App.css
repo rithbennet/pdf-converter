@@ -1,5 +1,7 @@
 .app-container {
-  padding: 2rem 0;
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 h1 {
